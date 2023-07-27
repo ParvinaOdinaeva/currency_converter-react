@@ -3,7 +3,7 @@ Here is my module 8 homework showing currency conversion from PLN to foreign cur
 
 ## Demo
 
-[Currency converter - preview](https://parvinaodinaeva.github.io/homepage_5B/)
+[Currency converter - preview](https://parvinaodinaeva.github.io/currency_converter-react/)
 
 ![converter image](https://i.postimg.cc/W15m1Y8H/exchange-rate-lg.jpg)
 
